@@ -2,7 +2,7 @@
 
   💻 About Me
 - 🔭 I’m passionate about **web app development** (both frontend & backend).
-- 🌱 Currently mastering **backend technologies** (Node.js, Laravel, databases, APIs).
+- 🌱 Currently mastering **backend technologies** (Laravel and working with APIs).
 - 🚀 Looking to collaborate on **open-source projects** or innovative web apps.
 - 📫 Reach me: **bundif2003@gmail.com** 
 - ⚡ Fun fact:I once automated my coffee routine with a Raspberry Pi.
