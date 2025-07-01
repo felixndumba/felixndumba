@@ -12,7 +12,7 @@
 
 
   🌟 Current Projects
-1. **Drinkly** 🍸 - A web app to find nearby bars/pubs (Laravel + Google Maps API).
+1. **Drinkly** 🍸 - A web app to find nearby bars/pubs (django framework + Google Maps API).
 2. **authentication system** ✅ -python(django).
 
 ---
